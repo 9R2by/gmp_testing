@@ -23,7 +23,7 @@
 int main() {
     uint8_t size = 128;
     mpz_t input, mask;
-    mpz_init(input);
+    //mpz_init(input);
     mpz_init(mask);
     //init
    // mpz_init_set_str(input, "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF", 16);
